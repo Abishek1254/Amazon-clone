@@ -1,4 +1,4 @@
-This project is a simplified clone of the Amazon website, designed to demonstrate front-end development skills using HTML and CSS.
+This project is a simplified UI clone of the Amazon website, designed to demonstrate front-end development skills using HTML and CSS.
 Features :
 1.Responsive navigation bar
 2.Product listing layout
