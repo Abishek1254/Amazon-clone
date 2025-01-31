@@ -33,7 +33,7 @@
 .logo {
     width:100%;
     height:100%;
-    background-image: url(amazon_logo.png);
+    background-image: url(assets/amazon_logo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -179,7 +179,7 @@ border:2.2px solid orange;
 
 
 .hero{
-    background-image: url(hero_image.jpg);
+    background-image: url(assets/hero_image.jpg);
     height:380px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -236,43 +236,43 @@ border:2.2px solid orange;
 }
 
 .bg-img1{
-background-image: url(box1_image.jpg);
+background-image: url(assets/box1_image.jpg);
 background-size:cover;
 }
 
 .bg-img2{
-background-image: url(box2_image.jpg);
+background-image: url(assets/box2_image.jpg);
 background-size:cover;
 }
 
 .bg-img3{
-background-image: url(box3_image.jpg);
+background-image: url(assets/box3_image.jpg);
 background-size:cover;
 }
 
 .bg-img4{
-background-image: url(box4_image.jpg);
+background-image: url(assets/box4_image.jpg);
 background-size:cover;
 }
 
 .bg-img5{
-background-image: url(box5_image.jpg);
+background-image: url(assets/box5_image.jpg);
 background-size:cover;
     }
 
     
 .bg-img6{
-background-image: url(box6_image.jpg);
+background-image: url(assets/box6_image.jpg);
 background-size:cover;
         }
 
 .bg-img7{
-background-image: url(box7_image.jpg);
+background-image: url(assets/box7_image.jpg);
 background-size:cover;
             }
 
 .bg-img8{
-background-image: url(box8_image.jpg);
+background-image: url(assets/box8_image.jpg);
 background-size:cover;
                 }
                 
